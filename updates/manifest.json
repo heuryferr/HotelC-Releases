@@ -1,0 +1,11 @@
+{
+  "produto": "hotelc",
+  "versao": "1.0.0",
+  "publicado_em": "2026-10-30T15:34:40.650295+00:00",
+  "arquivos": {
+    "hotelc-windows-v1.0.0.zip": {
+      "sha256": "665ad7e44ae6cf7a60d9c9a1631ab84eb519ab0ec0fa9388cacca6783b14cc41",
+      "size": 42440957
+    }
+  }
+}
