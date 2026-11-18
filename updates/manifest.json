@@ -1,7 +1,7 @@
 {
   "produto": "hotelc",
-  "versao": "4.2.6",
-  "publicado_em": "2026-11-18T11:14:37.509996+00:00",
+  "versao": "4.2.7",
+  "publicado_em": "2026-11-18T12:56:32.476805+00:00",
   "arquivos": {
     "hotelc-windows-v1.0.0.zip": {
       "sha256": "273ac2be70a418aba1331725f4bd6b9d26f8b083cea5abe54d6dde62c1bbfdd5",
@@ -162,6 +162,14 @@
     "HotelC-setup-4.2.6.exe": {
       "sha256": "bf651f6008ebe70fd69d57acefccc4026349f2804955029bcd70735b5ddeb792",
       "size": 31641736
+    },
+    "hotelc-windows-v4.2.7.zip": {
+      "sha256": "7784144535ee42138156c586538eeca5574c7695740ae53136e978fc279763f2",
+      "size": 43176373
+    },
+    "HotelC-setup-4.2.7.exe": {
+      "sha256": "c8ea5fe575d53f317a24770cd7bf781ca1fe95de53fd7acc56bbb3709154b086",
+      "size": 31764103
     }
   }
 }
